@@ -1,0 +1,15 @@
+touch Arquivo_Aqui
+
+git init
+git config user.name Wedchidna
+git config user.email wedchidna@hotmail.com
+
+git push origin master
+	Username Wedchidna
+	Password ********
+
+git add <file_name>			p/ adicionar na transferência
+git status				p/ checar estado
+git commit -m "etc et al"		p/ enviar com mensagem
+
+
